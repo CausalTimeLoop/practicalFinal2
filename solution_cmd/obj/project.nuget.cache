@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VZ7EnL1fx2mt1sDJUjFM9Q/g2KKmJXx0JN5ldR7zeyXIu4J6bmxKt1LgwFlbOptUaQJFKX7F7nGZqsBuxz5t3g==",
+  "success": true,
+  "projectFilePath": "C:\\Luka\\UFV\\Segundo\\SSOO\\practical2\\solution_cmd\\practical2Extension.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iwill\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\iwill\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\iwill\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\iwill\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

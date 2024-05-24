@@ -1,0 +1,13 @@
+C:\Luka\UFV\Segundo\SSOO\practical2\practicalFinal\obj\Debug\practicalFinal.csproj.AssemblyReference.cache
+C:\Luka\UFV\Segundo\SSOO\practical2\practicalFinal\obj\Debug\practicalFinal.FormLogin.resources
+C:\Luka\UFV\Segundo\SSOO\practical2\practicalFinal\obj\Debug\practicalFinal.FormMain.resources
+C:\Luka\UFV\Segundo\SSOO\practical2\practicalFinal\obj\Debug\practicalFinal.Properties.Resources.resources
+C:\Luka\UFV\Segundo\SSOO\practical2\practicalFinal\obj\Debug\practicalFinal.csproj.GenerateResource.cache
+C:\Luka\UFV\Segundo\SSOO\practical2\practicalFinal\obj\Debug\practicalFinal.csproj.CoreCompileInputs.cache
+C:\Luka\UFV\Segundo\SSOO\practical2\practicalFinal\bin\Debug\practicalFinal.exe.config
+C:\Luka\UFV\Segundo\SSOO\practical2\practicalFinal\bin\Debug\practicalFinal.exe
+C:\Luka\UFV\Segundo\SSOO\practical2\practicalFinal\bin\Debug\practicalFinal.pdb
+C:\Luka\UFV\Segundo\SSOO\practical2\practicalFinal\obj\Debug\practicalFinal.Form2.resources
+C:\Luka\UFV\Segundo\SSOO\practical2\practicalFinal\obj\Debug\practicalFinal.exe
+C:\Luka\UFV\Segundo\SSOO\practical2\practicalFinal\obj\Debug\practicalFinal.pdb
+C:\Luka\UFV\Segundo\SSOO\practical2\practicalFinal\obj\Debug\practicalFinal.FormProfile.resources
